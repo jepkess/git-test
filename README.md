@@ -2,6 +2,11 @@
 - shows trending technologies images
 
 ## By Jepkess
+
+## Web design
+
+ <my website design image>
+ 
 ## Description
 ## Setup 
 1. git clone https://github.com/jepkess/git-test.git
